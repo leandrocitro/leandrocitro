@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leandrocitro
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Html5, Css3, Java Script, React, Vue and Node Js.
-- 💞️ I’m looking to collaborate on Html5, Css3, Java Script, React, Vue and Node Js.
+- 💞️ I’m looking to collaborate on Html5, Css3, JavaScript, Node, TypeScript and React.
 - 📫 How to reach me https://www.linkedin.com/in/leandro-citro-600bab32/
 
 <!---
