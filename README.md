@@ -106,7 +106,14 @@
 
 </div>
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=leandrocitro&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=leandrocitro&show_icons=true&theme=radical&layout=compact" />
- </div>
+![leandrocitro's Stats](https://github-readme-stats.vercel.app/api?username=leandrocitro&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![leandrocitro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=leandrocitro&theme=dark&hide_border=false)
+<div align="center">
+  <img width="40%" align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocitro&theme=dark&show_icons=true&hide_border=false&layout=compact" />
+</div>
+</div>
+
+&nbsp;
+&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
