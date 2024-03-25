@@ -6,4 +6,7 @@
 
 <div align="center">
   
-[![Linkedin_br](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/bernardonacif](https://www.linkedin.com/in/leandro-citro-600bab32/)https://www.linkedin.com/in/leandro-citro-600bab32/)
+🇧🇷 [![Linkedin_br](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/bernardonacif](https://www.linkedin.com/in/leandro-citro-600bab32/))
+
+
+🇺🇸 [![Linkedin_br](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardonacif/?locale=en_US)
